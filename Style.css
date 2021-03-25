@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@700&display=swap');
+
+
+.navbar{
+    background-color: #00252b;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.carousel-item .img-fluid {
+   
+    opacity: 0.6;
+  }
+
+
+
+  .bi-google:hover{
+color: yellowgreen;
+cursor: pointer;;
+  }
+
+  .bi-twitter:hover{
+      color: skyblue;
+      cursor: pointer;;
+  }
+.bi-instagram:hover{
+    color: orange;
+    cursor: pointer;;
+}
+
+.bi-whatsapp:hover{
+    color: green;
+    cursor: pointer;;
+}
+
+.bi-youtube:hover{
+    color: red;
+    cursor: pointer;;
+}
+
+.bi-linkedin:hover{
+    color: lightskyblue;
+    cursor: pointer;;
+}
+
+.bi{
+    color: lightgray;
+    cursor: pointer;
+}
+
+*{
+    font-family: 'Josefin Sans', sans-serif;
+  }
